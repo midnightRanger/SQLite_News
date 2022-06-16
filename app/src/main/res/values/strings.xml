@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Новости</string>
+    <string name="header">Заголовок</string>
+    <string name="main_text">Главный текст</string>
+    <string name="news_author">Автор</string>
+    <string name="publication_date">Дата публикации</string>
+    <string name="news_list">Лента новостей!</string>
+    <string name="add_news">Добавить новость</string>
+    <string name="register">Зарегистрировать</string>
+    <string name="register_user">Регистрация</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="admin">Администратор</string>
+    <string name="authorization">Авторизация</string>
+    <string name="i_not_have_account">У меня нет аккаунта…</string>
+    <string name="authorize">Войти</string>
+    <string name="edit">Изменить</string>
+    <string name="input_news_date">Дата публикации</string>
+    <string name="news_main_text">Основное содержимое публикации…</string>
+    <string name="news_header">Заголовок</string>
+    <string name="add_news_label">Добавление новости</string>
+    <string name="edit_news_label">Редактирование новости</string>
+    <string name="save_changes">Сохранить изменения</string>
+    <string name="delete">Удалить</string>
+    <string name="loading">Загрузка…</string>
+    <string name="admin_menu">Меню администратора</string>
+</resources>
