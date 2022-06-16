@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Новости</string>
+    <string name="app_name">SQL Lite News APP</string>
     <string name="header">Заголовок</string>
     <string name="main_text">Главный текст</string>
     <string name="news_author">Автор</string>

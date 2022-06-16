@@ -15,6 +15,12 @@
         <entry key="..\:/MAD_Practice_18/app/src/main/res/layout/activity_registration.xml" value="0.4" />
         <entry key="..\:/MAD_Practice_18/app/src/main/res/layout/news_recycler_view_item.xml" value="0.13020833333333334" />
         <entry key="..\:/MAD_Practice_18/app/src/main/res/layout/recycler_news.xml" value="0.1793478260869565" />
+        <entry key="..\:/News_SQlite/app/src/main/res/layout/activity_authorization.xml" value="0.2" />
+        <entry key="..\:/News_SQlite/app/src/main/res/layout/activity_edit_news.xml" value="0.2" />
+        <entry key="..\:/News_SQlite/app/src/main/res/layout/activity_news_info.xml" value="0.13020833333333334" />
+        <entry key="..\:/News_SQlite/app/src/main/res/layout/activity_reader_news.xml" value="0.13020833333333334" />
+        <entry key="..\:/News_SQlite/app/src/main/res/layout/activity_registration.xml" value="0.13020833333333334" />
+        <entry key="..\:/News_SQlite/app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
       </map>
     </option>
   </component>
